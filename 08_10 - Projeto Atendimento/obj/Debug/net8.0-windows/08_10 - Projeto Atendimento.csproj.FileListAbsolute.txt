@@ -1,0 +1,16 @@
+E:\FACULDADE\2º PERIODO\2º SEMESTRE\08_10 - Projeto Atendimento\bin\Debug\net8.0-windows\08_10 - Projeto Atendimento.exe
+E:\FACULDADE\2º PERIODO\2º SEMESTRE\08_10 - Projeto Atendimento\bin\Debug\net8.0-windows\08_10 - Projeto Atendimento.deps.json
+E:\FACULDADE\2º PERIODO\2º SEMESTRE\08_10 - Projeto Atendimento\bin\Debug\net8.0-windows\08_10 - Projeto Atendimento.runtimeconfig.json
+E:\FACULDADE\2º PERIODO\2º SEMESTRE\08_10 - Projeto Atendimento\bin\Debug\net8.0-windows\08_10 - Projeto Atendimento.dll
+E:\FACULDADE\2º PERIODO\2º SEMESTRE\08_10 - Projeto Atendimento\bin\Debug\net8.0-windows\08_10 - Projeto Atendimento.pdb
+E:\FACULDADE\2º PERIODO\2º SEMESTRE\08_10 - Projeto Atendimento\obj\Debug\net8.0-windows\_08_10___Projeto_Atendimento.Form1.resources
+E:\FACULDADE\2º PERIODO\2º SEMESTRE\08_10 - Projeto Atendimento\obj\Debug\net8.0-windows\08_10 - Projeto Atendimento.csproj.GenerateResource.cache
+E:\FACULDADE\2º PERIODO\2º SEMESTRE\08_10 - Projeto Atendimento\obj\Debug\net8.0-windows\08_10 - Projeto Atendimento.GeneratedMSBuildEditorConfig.editorconfig
+E:\FACULDADE\2º PERIODO\2º SEMESTRE\08_10 - Projeto Atendimento\obj\Debug\net8.0-windows\08_10 - Projeto Atendimento.AssemblyInfoInputs.cache
+E:\FACULDADE\2º PERIODO\2º SEMESTRE\08_10 - Projeto Atendimento\obj\Debug\net8.0-windows\08_10 - Projeto Atendimento.AssemblyInfo.cs
+E:\FACULDADE\2º PERIODO\2º SEMESTRE\08_10 - Projeto Atendimento\obj\Debug\net8.0-windows\08_10 - Projeto Atendimento.csproj.CoreCompileInputs.cache
+E:\FACULDADE\2º PERIODO\2º SEMESTRE\08_10 - Projeto Atendimento\obj\Debug\net8.0-windows\08_10 - Projeto Atendimento.dll
+E:\FACULDADE\2º PERIODO\2º SEMESTRE\08_10 - Projeto Atendimento\obj\Debug\net8.0-windows\refint\08_10 - Projeto Atendimento.dll
+E:\FACULDADE\2º PERIODO\2º SEMESTRE\08_10 - Projeto Atendimento\obj\Debug\net8.0-windows\08_10 - Projeto Atendimento.pdb
+E:\FACULDADE\2º PERIODO\2º SEMESTRE\08_10 - Projeto Atendimento\obj\Debug\net8.0-windows\08_10 - Projeto Atendimento.genruntimeconfig.cache
+E:\FACULDADE\2º PERIODO\2º SEMESTRE\08_10 - Projeto Atendimento\obj\Debug\net8.0-windows\ref\08_10 - Projeto Atendimento.dll
